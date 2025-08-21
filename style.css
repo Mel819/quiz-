@@ -1,8 +1,8 @@
 :root{
---cor-fundo: #6c92b3ff;
+--cor-fundo: #102020;
 --cor-principal: #0B0D20;
---cor-secundaria: #7181f3ff;
---cor-destaque: #58bfd1;
+--cor-secundaria: rgba(191, 66, 66, 0.418);
+--cor-destaque: #d42e1c;
 --cor-texto: #b5d7dd;
 }
 

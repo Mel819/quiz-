@@ -6,67 +6,67 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: "Você tem 6 anos e já uma estrela no futebol, possui uma habilidade nos pés como ninguém. Seu pai, ao notá-lo, te dá a oportunidade de entrar em uma escolinha",
+        enunciado: "1. Qual banda britânica é conhecida como “Os Quatro de Liverpool”?",
         alternativas: [
             {
-                texto: "Aceitar",
-                afirmacao: "Essa escolinha é reconhecida como a melhor ecolinha do estado do Paraná, sendo conhecida por ser o berço de grandes jogadores, logo, suas habilidades no futebol aumentam ainda mais."
+                texto: "Pink Floyd",
+                afirmacao: ""
             },
             {
-                texto: "Recusar e treinar em casa",
-                afirmacao: "Por não ter um treinador, sua única alternativa é imitar os lances que vê na TV, usando cadeiras como bonecos e, depois, pondo em prática com o seu pai."
+                texto: "The Beatles",
+                afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "O tempo passou e agora você tem 12 anos! Um olheiro percebe seu potencial e te chama para jogar no time da cidade. Obs: é um time pequeno.",
+        enunciado: "2. Qual desses álbuns do Nirvana contém o hit “Smells Like Teen Spirit”?",
         alternativas: [
             {
-                texto: "É uma ótima chance de crescer, eu topo!",
-                afirmacao: "Graças a esse clube, você pode trocar experiências com outros jogadores e jogar com clubes de fora, ganhando inúmeras partidas e um grande destaque no próprio estado."
+                texto: "In Utero",
+                afirmacao: ""
             },
             {
-                texto: "Esse clube não me merece",
-                afirmacao: "Sua habilidade continuou a mesma e a soberba foi crescendo. Mesmo assim, você menteve o sonho de ser um grande jogador."
+                texto: " Nevermind",
+                afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "Aos 17, perto de sair da categoria de base, seu pai numa última tentativa de torná-lo grande te increve na peneira do Vasco da Gama",
+        enunciado: "3. Quem é considerado o “Rei do Rock”?",
         alternativas: [
             {
-                texto: "Me esforçar ao máximo para conseguir essa vaga",
-                afirmacao: "Você foi escolhido para jogar no Vasco, e não no sub 17! O treinador logo notou suas habilidades e te mandou direto para o time principal!"
+                texto: "Freddie Mercury",
+                afirmacao: ""
             },
             {
-                texto: "Só fazer o que treinou em casa, você sabe que todos os que estão lá são perebentos no futebol",
-                afirmacao: "As coisas não aconteceram da forma que você planejava, pois o neto do Romário estava naquela peneira e te mandou direto pra casa. Aquilo foi um banho de água fria na sua vida."
+                texto: " Elvis Presley",
+                afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "Você foi jogar um society com seus amigos e, por algum motivo, o treinador do Barcelona estava lá assistindo, passando o final de semana.",
+        enunciado: "A música “Bohemian Rhapsody” foi lançada originalmente em qual ano?",
         alternativas: [
             {
-                texto: "Jogar como se fosse a partida da sua vida, vai que ele cresce o olho",
-                afirmacao: "Dito e feito! O técnico do Barcelona nem conversou com o presidente do clube e te contratou ali mesmo com um guardanapo e uma Bic falhada. Seu futuro está feito!"
+                texto: "1969",
+                afirmacao: ""
             },
             {
-                texto: "Ele nem deve estar prestando atenção e eu tô numa preguiça, vou jogar de boa",
-                afirmacao: "O tongo jogou como se fosse o Ronaldo gordo, errou até o nó da chuteira e, novamente, o neto do Romário estava lá. Ele pegou sua vaga no Barcelona."
+                texto: "1975",
+                afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "A seleção brasileira, na má fase, resolve chamar alguns voluntários para uma peneira e concorrer a chance de jogar a copa do mundo",
+        enunciado: "5. Qual dessas bandas é considerada um dos pilares do heavy metal?",
         alternativas: [
             {
-                texto:  "Destruir na peneira",
-                afirmacao: "É o novo Pelé! Foi convocado para a seleção, marcou 23 gols na final contra a Argentina, quebrou a perna do Messi e ainda ganhou a bola de ouro! Virou o jogador que mais ganha bem na história do futebol e se aposentou aos 30 anos por tédio, mas tem um contrato vitalício com o Barcelona e foi o rico pelo resto da vida!"
+                texto:  " Black Sabbath",
+                afirmacao: ""
             },
             {
-                texto: "Não conheço nenhum dos poucos jogadores que foram convocados e esses que estão na peneira não devem nem saber dominar a bola, não vou nem me esforçar",
-                afirmacao: "Na peneira, você tentou driblar o Thiago Silva (que estava com 53 anos e jogando na seleção), ele te deu um carrinho e quebrou sua perna em 8 partes diferentes. Você perdeu os movimentos da perna direita (a perna boa) e trabalhou como entregador daqueles panfletos que parecem uma nota de R$100 pelo resto da vida (reagiu ao assalto de um mendigo e morreu aos 30 anos)"
+                texto: " Red Hot Chili Peppers",
+                afirmacao: ""
             }
         ]
     },
